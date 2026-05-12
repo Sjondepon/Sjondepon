@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Skillset
+[![My Skills](https://skillicons.dev/icons?i=github,git,sqlite,java,c,cpp,blender,R)](https://skillicons.dev)
+
