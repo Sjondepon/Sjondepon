@@ -11,4 +11,4 @@ A music player
 Working with big codebase
 
 ## Stats
-https://github-profile-trophy.vercel.app/?username=Sjondepon&theme=onedark
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sjondpeon)](https://github.com/ryo-ma/github-profile-trophy)
