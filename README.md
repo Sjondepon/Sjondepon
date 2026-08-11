@@ -11,4 +11,4 @@ A music player
 Working with big codebase
 
 ## Stats
-<img alt="Sjondepon profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=Sjondepon&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
+https://github-profile-trophy.vercel.app/?username=Sjondepon&theme=onedark
